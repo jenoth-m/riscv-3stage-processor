@@ -1,0 +1,13 @@
+# Generated machine code, simulations, and Python cache files.
+/build/
+*.vvp
+*.vcd
+*.fst
+__pycache__/
+*.pyc
+
+# Local editor and operating-system files.
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
